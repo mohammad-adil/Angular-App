@@ -14,7 +14,7 @@ export const products: Product[] = [
   },
   {
     id: 2,
-    name: 'Phone M4 asap',
+    name: 'Phone M4 APAK sjkhadjashdjklh',
     price: 699,
     description: 'A great phone with one of the best cameras',
   },

@@ -8,7 +8,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'IPhone 12 Max Pro',
     price: 799,
     description: 'A large phone with one of the best screens',
   },

@@ -8,7 +8,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 1,
-    name: 'IPhone 12 Max Ultimate',
+    name: 'IPhone 12 Max Ultimatex.pro',
     price: 799,
     description: 'A large phone with one of the best screens',
   },
